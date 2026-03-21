@@ -475,3 +475,4 @@ class MN_OT_Session_Prune(bpy.types.Operator):
 
 
 CLASSES = [MN_OT_Session_Remove_Item, MN_OT_Session_Create_Object, MN_OT_Session_Prune]
+# trigger CI
